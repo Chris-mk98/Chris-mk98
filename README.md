@@ -1,3 +1,12 @@
 # 안녕하세요
+> 건국대학교 철학과를 졸업한 김민근 입니다.
+> 정보보안에 관심을 가지고 공부중입니다. 앞으로 잘 부탁드립니다.
 
-- [VELOG 블로그](https://velog.io/@chris-mk/posts)
+**사용 언어**
+- python
+
+**블로그**
+- [VELOG](https://velog.io/@chris-mk/posts)
+
+**진행중인 프로젝트**
+- Booki(가계부 작성/분석 웹서비스)
